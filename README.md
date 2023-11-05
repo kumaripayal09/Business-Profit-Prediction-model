@@ -1,1 +1,2 @@
-# Business-Profit-Prediction-model
+This project aims to help an e-commerce company based in New York City make an informed decision about where to focus its efforts for business growth. The company offers both a mobile app and a website for customers to purchase clothing online. In addition to online sales, the company also provides in-store style and clothing advice sessions. The objective is to determine whether the company should prioritize improving the mobile app experience or the website to maximize profitability.
+
